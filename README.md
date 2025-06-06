@@ -19,7 +19,7 @@
 <a href="https://github.com/DarthAether" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=TejaswiMahadev&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=DarthAether&style=for-the-badge" alt="Profile views" />
 </div>
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As an AI/ML engineer, I've gained proficieny in programming languages that are essential for data science, machine learning research, and production AI systems. These languages form the foundation of my toolkit for building everything from research prototypes to scalable AI applications.</p>
