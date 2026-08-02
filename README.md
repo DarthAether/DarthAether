@@ -1,32 +1,39 @@
-### Hi, I'm Vijaya Sivanjan Kommuri
+# Hi, I'm Vijaya Sivanjan Kommuri
 
-CS undergrad specializing in AI/ML at Malla Reddy University, Hyderabad. I build machine learning systems for real-world problems — power grid resilience, IoT security, financial risk.
+I build reliable software systems.
 
-**Currently:** Final year B.Tech (CSE-AIML) | IEEE SPICES 2026 author | Heading to grad school Aug 2026
+I enjoy taking ambiguous problems, breaking them into clear parts, and designing systems that are practical to build, reliable to operate, and easy to evolve. AI is part of how I work, but I use it as an accelerator while keeping architecture and engineering judgment under my own control.
 
----
+I am currently studying Computer Science and Engineering at Malla Reddy University and I will be joining the University of Stuttgart for an M.Sc. in Computational Linguistics.
 
-#### What I work on
+## What I build
 
-- **ML for critical infrastructure** — Power outage prediction using compound weather event modeling, XGBoost/LightGBM ensembles, H3 spatial indexing. AUC-ROC 0.967.
-- **NLP for security** — BERT-based IoT command risk analysis, threat classification for smart home automation rules.
-- **Explainable AI** — SHAP-based model interpretability for credit risk and energy systems.
+Backend systems. AI enabled workflows. Production infrastructure. Applied machine learning. Software architecture. Testing and deployment automation.
 
-#### Tech
+## Selected work
 
-`Python` `XGBoost` `LightGBM` `scikit-learn` `PyTorch` `FastAPI` `Next.js` `PostgreSQL` `Docker` `H3` `SHAP`
+**Power Outage Prediction System**  
+Production style ML platform for state agnostic outage forecasting using compound weather event modeling, calibrated XGBoost and LightGBM, FastAPI, Next.js, TimescaleDB, Redis, MLflow, and Docker Compose.
 
----
+**IoTGuard**  
+Desktop security tool for interpreting IoT command risk and generating natural language security summaries with AI assistance.
 
-#### Featured
+**SecureIoT NLP**  
+Research work on NLP based security and privacy risk detection for IoT automation.
 
-| Project | What it does |
-|---------|-------------|
-| [outage-prediction-system](https://github.com/DarthAether/outage-prediction-system) | State-agnostic power outage forecasting with compound weather events. 138 features, calibrated uncertainty, cross-state generalization. |
-| [IoTGuard](https://github.com/DarthAether/IoTGuard) | BERT-powered IoT command risk analyzer with real-time threat classification |
-| [SecureIoT-NLP](https://github.com/DarthAether/SecureIoT-NLP) | NLP-based security/privacy risk detection for IoT automation |
-| [credit-risk-xai-project](https://github.com/DarthAether/credit-risk-xai-project) | Credit risk prediction with Random Forest + SHAP explainability |
+**Credit Risk XAI**  
+Explainable risk modeling with SHAP based interpretation.
 
----
+## Tech I use most
 
-*Open to research collaborations and grad school opportunities.*
+Python · TypeScript · FastAPI · NestJS · Next.js · PostgreSQL · Redis · Docker · GitHub Actions · Playwright · PyTorch · XGBoost · LightGBM · SHAP
+
+## Current focus
+
+Reliable backend systems. AI orchestrated software engineering. Computational linguistics. Production infrastructure.
+
+## Contact
+
+GitHub: github.com/DarthAether  
+Email: vjkommuri@gmail.com  
+LinkedIn: linkedin.com/in/vijaya-sivanjan
