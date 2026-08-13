@@ -1,39 +1,33 @@
 # Hi, I'm Vijaya Sivanjan Kommuri
 
-I build reliable software systems.
+I am an incoming M.Sc. Computational Linguistics student at the University of Stuttgart (WS 2026/27), following a B.Tech in Computer Science and Engineering with an AI & ML specialization (CGPA 8.16/10).
 
-I enjoy taking ambiguous problems, breaking them into clear parts, and designing systems that are practical to build, reliable to operate, and easy to evolve. AI is part of how I work, but I use it as an accelerator while keeping architecture and engineering judgment under my own control.
-
-I am currently studying Computer Science and Engineering at Malla Reddy University and I will be joining the University of Stuttgart for an M.Sc. in Computational Linguistics.
-
-## What I build
-
-Backend systems. AI enabled workflows. Production infrastructure. Applied machine learning. Software architecture. Testing and deployment automation.
+I build ML-backed software systems and enjoy turning ambiguous problems into practical, testable implementations. My interests sit at the intersection of applied AI, NLP, backend engineering, data systems, and software quality.
 
 ## Selected work
 
-**Power Outage Prediction System**  
-Production style ML platform for state agnostic outage forecasting using compound weather event modeling, calibrated XGBoost and LightGBM, FastAPI, Next.js, TimescaleDB, Redis, MLflow, and Docker Compose.
+- **[Power Outage Prediction Platform](https://github.com/DarthAether/outage-prediction-system)** — three-student B.Tech thesis and research prototype for compound-weather outage-risk modelling, with an evaluated XGBoost/LightGBM pipeline and a FastAPI/Next.js implementation.
+- **[IoTGuard](https://github.com/DarthAether/IoTGuard)** — PySide6 desktop application for analysing IoT commands with rule-based checks and Gemini-assisted security explanations.
 
-**IoTGuard**  
-Desktop security tool for interpreting IoT command risk and generating natural language security summaries with AI assistance.
+## Experience
 
-**SecureIoT NLP**  
-Research work on NLP based security and privacy risk detection for IoT automation.
-
-**Credit Risk XAI**  
-Explainable risk modeling with SHAP based interpretation.
-
-## Tech I use most
-
-Python · TypeScript · FastAPI · NestJS · Next.js · PostgreSQL · Redis · Docker · GitHub Actions · Playwright · PyTorch · XGBoost · LightGBM · SHAP
+During a six-month internship at VTAG Software Solutions LLP, I contributed to production real-estate workflows across Next.js, React, NestJS, GraphQL, Prisma, PostgreSQL, AWS S3, and Playwright.
 
 ## Current focus
 
-Reliable backend systems. AI orchestrated software engineering. Computational linguistics. Production infrastructure.
+- NLP, LLM applications, and applied machine learning
+- Python/backend and data engineering
+- Test automation and reliable software delivery
+- Strengthening algorithms, mathematics, and German-language fundamentals
+
+I am preparing to relocate to Stuttgart and exploring Werkstudent/HiWi opportunities for after enrollment.
+
+## Core tools
+
+`Python` `TypeScript` `FastAPI` `NestJS` `Next.js` `PostgreSQL` `Redis` `Docker` `Playwright` `PyTorch` `XGBoost` `LightGBM` `SHAP`
 
 ## Contact
 
-GitHub: github.com/DarthAether  
-Email: vjkommuri@gmail.com  
-LinkedIn: linkedin.com/in/vijaya-sivanjan
+- [Portfolio](https://darthaether.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/vijaya-sivanjan)
+- [Email](mailto:vjkommuri@gmail.com)
